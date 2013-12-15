@@ -1,0 +1,12 @@
+Startnummer   Förnamn        Efternamn     Klubb
+1             Oscar          Lundkvist     Boxholm OK
+2             Bo             Ek            Norrköping OK
+3             Mia            Strand        Motala IK 
+4             Mattias        Dahlberg      Boxholm OK
+5             Per-Erik       Jonsson       Norrköping OK
+6             Anna           Nilsson       Linköping IK
+7             Kalle          Svensson      Linköping IK 
+8             Sebastian      Gustavsson    Motala IK
+9             Daniel         Lindberg      Boxholm OK
+10            Jesper         Karlsson      Linghem IK
+11            Jakob          En            Linghem IK
